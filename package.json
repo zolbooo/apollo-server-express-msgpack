@@ -1,0 +1,29 @@
+{
+  "name": "apollo-server-express-msgpack",
+  "version": "1.0.0",
+  "description": "Msgpack support for Apollo Server",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zolbooo/apollo-server-express-msgpack.git"
+  },
+  "keywords": [
+    "msgpack",
+    "express",
+    "graphql",
+    "apollo-server"
+  ],
+  "author": "Zolboobayar Gantumur <zolboobayar@metainc.mn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zolbooo/apollo-server-express-msgpack/issues"
+  },
+  "homepage": "https://github.com/zolbooo/apollo-server-express-msgpack#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
