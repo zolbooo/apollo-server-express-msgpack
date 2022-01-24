@@ -5,7 +5,8 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "test": "npx jest"
+    "test": "npx jest",
+    "build": "npx tsc"
   },
   "repository": {
     "type": "git",
