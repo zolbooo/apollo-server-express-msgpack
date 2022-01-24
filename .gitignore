@@ -40,5 +40,6 @@ dist/**/*
 # ignore yarn.lock
 yarn.lock
 
-# Typescript output
+# Build output
 *.tsbuildinfo
+lib/
